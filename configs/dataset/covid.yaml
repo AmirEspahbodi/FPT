@@ -1,6 +1,6 @@
 name: covid
 data_path: /kaggle/working/covid-cxr-image-dataset-research/COVID_IEEE
-preload_path: ./preload_data/covid
+preload_path: /kaggle/working/COVID_IEEE/
 save_path: ./runs/covid
 input_size: 512 # image resolution for the LPM
 num_classes: 3 # number of classes
