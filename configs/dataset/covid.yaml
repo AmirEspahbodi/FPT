@@ -1,5 +1,5 @@
 name: covid
-data_path: /kaggle/input/covid-cxr-image-dataset-research
+data_path: /kaggle/working/covid-cxr-image-dataset-research/COVID_IEEE
 preload_path: ./preload_data/covid
 save_path: ./runs/covid
 input_size: 512 # image resolution for the LPM
