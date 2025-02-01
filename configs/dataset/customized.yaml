@@ -1,8 +1,8 @@
 name: customized
 
 data_path: /kaggle/working/COVID_IEEE
-preload_path: ./preload_data/covid
-save_path: ./runs/covid
+preload_path: /kaggle/working/covid_preload_data
+save_path: /kaggle/working/covid_runs
 
 # data_path: ??? # path to the dataset
 # preload_path: ??? # path to the preloaded data
